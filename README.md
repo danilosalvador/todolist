@@ -1,5 +1,5 @@
 <p align="center">  
-   <img src="./assets/logo.png" alt="Todo List" width="444px"/> 
+   <img src="./assets/logo.png" alt="Todo List"/> 
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ### 📖 Sobre
 
-Desafio 01 da Trilha 2022 de React Native da Rocketseat para praticar e reforçar os conceitos vistos em aula e aprender novos.
+Desafio 01 da Trilha 2022 de React Native da Rocketseat para praticar e reforçar os conceitos vistos em aula.
 
 ### 📝 Tecnologias utilizadas
 
@@ -35,10 +35,10 @@ git clone https://github.com/danilosalvador/todolist
 cd todolist
 
 # Baixar as dependências
-`npm install`
+npm install
 
 # Executar
-`npx expo start`
+npx expo start
 
 ```
 ### 📝 Licença
