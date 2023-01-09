@@ -19,6 +19,10 @@ Desafio 01 da Trilha 2022 de React Native da Rocketseat para praticar e reforça
    <img src="./ToDo%20List.png" alt="Todo List"/> 
 </p>
 
+### 🎨 Protótipo
+
+- Protótipo do projeto está disponível no [Figma](https://www.figma.com/file/1XfZQGSWk4HWjvwcjd2nOP/ToDo-List/duplicate) (by [Rocketseat](https://github.com/rocketseat) ❤️).
+
 ### 📝 Tecnologias utilizadas
 
 Foram utilizadas as seguintes tecnologias:
@@ -29,7 +33,7 @@ Foram utilizadas as seguintes tecnologias:
 
 ### 🚀 Como Executar o Projeto
 
-Para executar o projeto, o ambiente deve estar configurado com as ferramentas de desenvolvimento de aplicativos. O passo a passo poderá ser acessado [por aqui](https://react-native.rocketseat.dev/) (by Rockeseat ❤️).
+Para executar o projeto, o ambiente deve estar configurado com as ferramentas de desenvolvimento de aplicativos. O passo a passo poderá ser acessado [por aqui](https://react-native.rocketseat.dev/) (by [Rocketseat](https://github.com/rocketseat) ❤️).
 
 ```bash
 # Clonar o repositório
