@@ -15,6 +15,10 @@
 
 Desafio 01 da Trilha 2022 de React Native da Rocketseat para praticar e reforçar os conceitos vistos em aula.
 
+<p align="center">  
+   <img src="./ToDo%20List.png" alt="Todo List"/> 
+</p>
+
 ### 📝 Tecnologias utilizadas
 
 Foram utilizadas as seguintes tecnologias:
